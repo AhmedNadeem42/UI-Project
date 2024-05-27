@@ -1,0 +1,25 @@
+.fixed-image {
+    height: 200px; /* Adjust the height as needed */
+    object-fit: cover;
+    width: 100%;
+}
+
+.btn-light-green {
+    background-color: #4ac04a;
+    border-color: #90ee90;
+    color: white;
+}
+
+.btn-light-green:hover {
+    background-color: #76c76b;
+    border-color: #76c76b;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.mt-auto {
+    margin-top: auto;
+}
